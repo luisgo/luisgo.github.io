@@ -122,7 +122,7 @@ font.list {
 
 li.spaced {
       line-height: 1.5em;
-      list-style-type: number }
+      list-style-type: decimal }
 
 a:link {color:#151B54; text-decoration:none; font-weight: bold; font-size: 8pt }
 a:visited {color:#151B54; text-decoration:none; font-weight: bold; font-size: 8pt }
